@@ -1,0 +1,9 @@
+C:\Users\Administrator\Downloads\lab3\bin\Debug\lab3.exe.config
+C:\Users\Administrator\Downloads\lab3\bin\Debug\lab3.exe
+C:\Users\Administrator\Downloads\lab3\bin\Debug\lab3.pdb
+C:\Users\Administrator\Downloads\lab3\obj\Debug\CreatingTreeNode.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\lab3\obj\Debug\lab3.movieSort.resources
+C:\Users\Administrator\Downloads\lab3\obj\Debug\lab3.Properties.Resources.resources
+C:\Users\Administrator\Downloads\lab3\obj\Debug\CreatingTreeNode.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\lab3\obj\Debug\lab3.exe
+C:\Users\Administrator\Downloads\lab3\obj\Debug\lab3.pdb

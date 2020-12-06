@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\lab3\obj\Debug\lab3.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\lab3\obj\Debug\lab3.Properties.Resources.resources
+C:\Users\Administrator\Desktop\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\lab3\bin\Debug\lab3.exe.config
+C:\Users\Administrator\Desktop\lab3\bin\Debug\lab3.exe
+C:\Users\Administrator\Desktop\lab3\bin\Debug\lab3.pdb
+C:\Users\Administrator\Desktop\lab3\obj\Debug\lab3.exe
+C:\Users\Administrator\Desktop\lab3\obj\Debug\lab3.pdb
+C:\Users\Administrator\Desktop\lab3\obj\Debug\lab3.movieSort.resources
